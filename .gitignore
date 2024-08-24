@@ -54,4 +54,4 @@ yarn-error.log
 /ios/Pods/
 /vendor/bundle/
 
-*.yarn/**
+*.yarn/cache/
